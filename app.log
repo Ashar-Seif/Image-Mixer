@@ -1,0 +1,826 @@
+864 - DEBUG - uiname is MainWindow
+824 - DEBUG - toplevel widget is MainWindow
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property windowTitle
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push MainWindow MainWindow
+108 - DEBUG - push QWidget centralwidget
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+400 - DEBUG - setting property frameShape
+400 - DEBUG - setting property frameShadow
+108 - DEBUG - push QFrame frame
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label
+122 - DEBUG - pop widget QLabel label
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047F487DC0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Image1_Area
+122 - DEBUG - pop widget ImageView Image1_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047F487DC0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Image_1_Components_Area
+122 - DEBUG - pop widget ImageView Image_1_Components_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047F487DC0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox Image_1_Components
+122 - DEBUG - pop widget QComboBox Image_1_Components
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047F487DC0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property text
+108 - DEBUG - push QPushButton Open_Image_1
+122 - DEBUG - pop widget QPushButton Open_Image_1
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047F487DC0>
+122 - DEBUG - pop widget QFrame frame
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x000002047F487040>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+400 - DEBUG - setting property frameShape
+400 - DEBUG - setting property frameShadow
+108 - DEBUG - push QFrame frame_2
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_2
+122 - DEBUG - pop widget QLabel label_2
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF16B80>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Image2_Area
+122 - DEBUG - pop widget ImageView Image2_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF16B80>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Image_2_Components_Area
+122 - DEBUG - pop widget ImageView Image_2_Components_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF16B80>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox Image_2_Components
+122 - DEBUG - pop widget QComboBox Image_2_Components
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF16B80>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property text
+108 - DEBUG - push QPushButton Open_Image_2
+122 - DEBUG - pop widget QPushButton Open_Image_2
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF16B80>
+122 - DEBUG - pop widget QFrame frame_2
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x000002047F487040>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+400 - DEBUG - setting property frameShape
+400 - DEBUG - setting property frameShadow
+108 - DEBUG - push QFrame frame_3
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_3
+122 - DEBUG - pop widget QLabel label_3
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox comboBox_3
+122 - DEBUG - pop widget QComboBox comboBox_3
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_4
+122 - DEBUG - pop widget QLabel label_4
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_5
+122 - DEBUG - pop widget QLabel label_5
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox comboBox_4
+122 - DEBUG - pop widget QComboBox comboBox_4
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox comboBox_5
+122 - DEBUG - pop widget QComboBox comboBox_5
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox comboBox_6
+122 - DEBUG - pop widget QComboBox comboBox_6
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+108 - DEBUG - push QComboBox comboBox_7
+122 - DEBUG - pop widget QComboBox comboBox_7
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property orientation
+108 - DEBUG - push QSlider horizontalSlider
+122 - DEBUG - pop widget QSlider horizontalSlider
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property orientation
+108 - DEBUG - push QSlider horizontalSlider_2
+122 - DEBUG - pop widget QSlider horizontalSlider_2
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF8AEE0>
+122 - DEBUG - pop widget QFrame frame_3
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x000002047F487040>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+400 - DEBUG - setting property frameShape
+400 - DEBUG - setting property frameShadow
+108 - DEBUG - push QFrame frame_4
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Output1_Area
+122 - DEBUG - pop widget ImageView Output1_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF91550>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property autoFillBackground
+108 - DEBUG - push ImageView Output2_Area
+122 - DEBUG - pop widget ImageView Output2_Area
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF91550>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_6
+122 - DEBUG - pop widget QLabel label_6
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF91550>
+400 - DEBUG - setting property geometry
+400 - DEBUG - setting property font
+400 - DEBUG - setting property text
+108 - DEBUG - push QLabel label_7
+122 - DEBUG - pop widget QLabel label_7
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QFrame object at 0x000002047FF91550>
+122 - DEBUG - pop widget QFrame frame_4
+130 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x000002047F487040>
+122 - DEBUG - pop widget QWidget centralwidget
+130 - DEBUG - new topwidget <__main__.MainWindow object at 0x000002047F484F70>
+108 - DEBUG - push QStatusBar statusbar
+122 - DEBUG - pop widget QStatusBar statusbar
+130 - DEBUG - new topwidget <__main__.MainWindow object at 0x000002047F484F70>
+122 - DEBUG - pop widget MainWindow MainWindow
+130 - DEBUG - new topwidget None
+70 - INFO - The Application started successfully
+73 - INFO - Browsing the files...
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+124 - INFO - Viewing magnitude Component Of Image
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+124 - INFO - Viewing magnitude Component Of Image
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+124 - INFO - Viewing magnitude Component Of Image
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+124 - INFO - Viewing magnitude Component Of Image
+58 - INFO - Mixing Magnitude and Phase
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020AA9D0> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+63 - INFO - Mixing Real And Imaginary
+165 - INFO - MixingrealAndimaginary has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixingmagnitudeAnduniformphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
+58 - INFO - Mixing Magnitude and Phase
+165 - INFO - MixinguniformmagnitudeAndphase has been done correctly
+107 - INFO - Added Image or its components 1 from C:/Users/sahar/Downloads/WhatsApp Image 2021-06-02 at 11.09.35 AM.jpeg: has loaded correctly'
+167 - INFO - Mixer_output<pyqtgraph.imageview.ImageView.ImageView object at 0x00000204020E2A60> has been generated and displayed
